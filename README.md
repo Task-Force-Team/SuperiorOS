@@ -36,8 +36,8 @@ To get started with the building process, you'll need to get familiar with [Git 
 
 ```bash
   . build/envsetup.sh
-  lunch superior_<devicecodename>-ap1a-userdebug
-  mka bacon
+  breakfast <devicecodename>
+  m bacon
 ```
 
 ---
